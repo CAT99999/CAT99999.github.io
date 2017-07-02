@@ -16,7 +16,7 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Planets2013.svg/1280px-Planets2013.svg.png">
 
-<p><i>the solar system</i></p>
+<p style="color:lime;"><i>the solar system</i></p>
   
 </body>
 </html>
