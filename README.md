@@ -10,7 +10,7 @@
 <body>
 
 <h1>whatch out for these aliens:</h1>
-<P>alexia<p>
+<P>alexia</p>
 
 <script src="js/scripts.js"></script>
 
