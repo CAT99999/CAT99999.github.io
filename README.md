@@ -8,8 +8,8 @@
 <P>whatch out for these aliens:</p>
 
 <ul>
-  <li>you</li>
-  <li>you</li>
+  <li>Alexia</li>
+  <li>Peter</li>
 </ul>
   
 </body>
