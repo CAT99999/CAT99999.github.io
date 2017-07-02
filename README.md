@@ -5,7 +5,7 @@
 
 <h1 style="color:blue;">aliens</h1>
 
-<P style="color:blue;"><b>whatch out for these aliens:</b></p>
+<P style="color:blue;"><b>watch out for these aliens:</b></p>
 
 <ul style="color:blue;">
   <li>Alexia</li>
