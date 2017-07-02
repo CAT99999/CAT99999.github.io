@@ -3,16 +3,16 @@
 <html>
 <body style="background-color:green;">
 
-<h1>aliens</h1>
+<h1 style="color:blue;">aliens</h1>
 
-<P><b>whatch out for these aliens:</b></p>
+<P style="color:blue;"><b>whatch out for these aliens:</b></p>
 
-<ul>
+<ul style="color:blue;">
   <li>Alexia</li>
   <li>Peter</li>
 </ul>
 
-<p>they have been spotted recently on Mars</p>
+<p style="color:blue;">they have been spotted recently on Mars</p>
   
 </body>
 </html>
