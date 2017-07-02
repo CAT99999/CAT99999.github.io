@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 
 <html>
-<body>
+<body style="background-color:green;">
 
 <h1>aliens</h1>
 
