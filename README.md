@@ -12,8 +12,6 @@
   <li><i>Peter</i></li>
 </ul>
 
-<p style="color:lime;">they have been spotted recently on Mars</p>
-
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Planets2013.svg/1280px-Planets2013.svg.png">
 
 <p style="color:lime;"><i>the solar system</i></p>
