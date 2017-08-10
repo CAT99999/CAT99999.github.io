@@ -5,7 +5,15 @@ body {
 a {
   color:orange;
    }
-
+#home {
+    background-image: url("http://cdn.skim.gs/images/htlpqr436vnkrvk1uj7g/ferret-facts");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+    padding: 20px;
+    height: 500px;
+    text-align: center;
+}
 ul {
     list-style-type: none;
     margin: 0;
